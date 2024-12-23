@@ -1,0 +1,4 @@
+.DS_Store
+imageFiles/*
+!imageFiles/
+!imageFiles/placeholder.txt
